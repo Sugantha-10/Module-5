@@ -27,3 +27,4 @@ obj.info()
 <img width="1258" height="366" alt="image" src="https://github.com/user-attachments/assets/c0b88226-64f9-4ac8-8bfb-72f742f3f838" />
 
 ## Result
+Thus the program demonstrates how to implement a destructor in Python using a simple class has been executed successfully.
